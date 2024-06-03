@@ -1,1 +1,0 @@
-- **if you not getting Popup Notification from any apps then follow these steps**
