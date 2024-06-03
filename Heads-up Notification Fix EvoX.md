@@ -1,4 +1,4 @@
-- **if you not getting Popup Notification from any apps then follow these steps**..
+- **if you not getting Heads-Up Notification from any apps then follow these steps**..
 
 1 **Open Settings**
   
